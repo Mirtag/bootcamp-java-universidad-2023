@@ -1,0 +1,4 @@
+miércoles 21 de junio:
+- Actualizar el encabezado del index.html
+- Agregar otra opción al menú
+- Implementar la Base de Datos

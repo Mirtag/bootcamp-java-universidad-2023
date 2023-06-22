@@ -1,0 +1,8 @@
+no me permite ingresar a la copia del repositorio
+bootcamp-java-universidad-2023.git
+para dentro del proyecto hacer cambios
+porque cuando hago cd a ese repositorio copia, donde están
+los archivos del desafío 1
+se me cambia de rama, se va al feature del git-desafio-ejercicio1
+y no es la rama que voy a subir
+

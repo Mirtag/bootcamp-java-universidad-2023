@@ -1,0 +1,38 @@
+git log
+commit 23ef432685cff9faaf445c9515b9c34ad0a273f7 (HEAD -> feature/git-desafio-ejercicio1)
+Author: Mirtag <profemirtagomez@gmail.com>
+Date:   Wed Jun 21 14:46:27 2023 -0300
+
+    add tareas: contiene las tareas del día
+
+commit 1c683ea270cd2bf6bcfba0884b53a8a1d60f0ae9
+Author: Mirtag <profemirtagomez@gmail.com>
+Date:   Tue Jun 20 20:33:14 2023 -0300
+
+    add contrasenias.txt
+
+commit 40fe25bba410f5a86ec1168913c425351bcaafe9
+Author: Mirtag <profemirtagomez@gmail.com>
+Date:   Tue Jun 20 19:26:18 2023 -0300
+
+    add el archivo README.md en git en la RAMA feature/git-desafio-ejercicio1
+
+commit 00143a479ffb5682dd51bc27d9c8683ba0b04c92 (feature/login, feature/git-desafio-ejercicio2, dev)
+Author: Mirtag <profemirtagomez@gmail.com>
+Date:   Tue Jun 20 19:06:43 2023 -0300
+
+    add contrasenias: contiene todas las contraseñas
+
+commit 09d882243feea8646b2502a47c6c42a8d6e0d66a (master)
+Author: mirtagomez <profemirtagomez@gmail.com>
+Date:   Tue Jun 20 17:11:48 2023 -0300
+
+    nuevo archivo de cuentas
+
+commit 0226a5b3a4d6e39b8c831d92413e822a7c011e93
+Author: mirtagomez <profemirtagomez@gmail.com>
+Date:   Tue Jun 20 16:16:00 2023 -0300
+
+    add primer archivo en git
+
+
